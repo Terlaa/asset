@@ -1,0 +1,8 @@
+{
+  "name": "asset",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "b4d7b68c"
+}
